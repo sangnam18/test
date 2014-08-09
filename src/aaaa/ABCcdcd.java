@@ -7,7 +7,7 @@ public class ABCcdcd {
 		System.out.println("2221111이클립스222");
 		System.out.println("이클립스2222323");
 		야야야야~~123123
-		System.out.println("testabcdddasdfasdf);
+		System.out.println("testabcdddasdfasfdasdasdfasdf);
 	}
 
 }
