@@ -13,7 +13,7 @@ public class ABCcdcd {
 		System.out.println("webbbb");
 		
 		System.out.println("ecip11111");
-		System.out.println("서버 테스트");
+		System.out.println("서버 테스트로컬");
 		
 	}
 
