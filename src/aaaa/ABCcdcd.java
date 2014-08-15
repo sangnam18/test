@@ -17,7 +17,10 @@ public class ABCcdcd {
 		System.out.println("9999999999999999999999");
 		
 
-		System.out.println("서버 테스트1212112");
+		System.out.println("서버 테스트1212112000000000000000000");
+		
+		System.out.println("test 1234 local");
+		System.out.println("11111");
 	}
 
 }
