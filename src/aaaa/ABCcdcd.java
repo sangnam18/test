@@ -12,7 +12,8 @@ public class ABCcdcd {
 		System.out.println("TESTAAAddasdfasdfasdf웹이랑께~");
 		System.out.println("webbbb");
 		
-		System.out.println("ecip");
+		System.out.println("ecip뮤뮤뮤");
+		System.out.println("로컬입니다.");
 		
 	}
 
