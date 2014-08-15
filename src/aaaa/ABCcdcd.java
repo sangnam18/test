@@ -16,6 +16,8 @@ public class ABCcdcd {
 		System.out.println("서버 테스트로컬1111111111");
 		System.out.println("9999999999999999999999");
 		
+
+		System.out.println("서버 테스트1212112");
 	}
 
 }
